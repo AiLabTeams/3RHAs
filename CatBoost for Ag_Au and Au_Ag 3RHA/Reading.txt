@@ -1,0 +1,15 @@
+Optimized Data Column Headers for 'Ag_Au 3RHA.xlsx' and 'Au_Ag 3RHA.xlsx':
+Str_n: Structure number
+Dt: Difference in transmission between right-handed circularly polarized (RCP) and left-handed circularly polarized (LCP) light (Dt = Trcp - Tlcp)
+CD: Circular dichroism (CD) difference in RCP and LCP light (CD = (Trcp - Tlcp) * 32.98)
+CD_abs: Absolute circular dichroism (CD) difference in RCP and LCP light (CD_abs = |(Trcp - Tlcp) * 32.98|)
+Inc1: Incident angle of the bottom layer
+Oad1: Azimuth angle of the bottom layer
+Incm: Incident angle of the middle layer
+Oadm: Azimuth angle of the middle layer
+Inc2: Incident angle of the top layer
+Oad2: Azimuth angle of the top layer
+dInc: Difference in incident angles of the bottom and top layer (dInc = Inc1 - Inc2)
+dOad: Difference in azimuth angles of the bottom and top layer (dOad = Oad1 - Oad2)
+dInc_abs: Absolute difference in incident angles of the bottom and top layer (dInc_abs = |Inc1 - Inc2|)
+dOad_abs: Absolute difference in azimuth angles of the bottom and top layer (dOad_abs = |Oad1 - Oad2|)

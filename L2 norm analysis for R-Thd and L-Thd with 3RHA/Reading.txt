@@ -1,0 +1,20 @@
+Optimized Data Column Headers for 'ddCD_RH_P2_LH_P3_S.csv' and 'ddCD_RH_P3_LH_P1_R.csv':
+
+'ddCD_RH_P3_LH_P1_R.csv': R-Thd
+Wavelength: Wavelength for Circular dichroism (CD) spectra
+RH_R_P3: the CD spectra of R-Thd in DMSO solution with RH-3RHA
+RH_DMSO_P3: the CD spectra of DMSO solution with RH-3RHA
+LH_R_P1: the CD spectra of R-Thd in DMSO solution with LH-3RHA 
+LH_DMSO_P1: the CD spectra of DMSO solution with LH-3RHA
+RH_P3: the CD spectra of RH-3RHA
+LH_P1: the CD spectra of LH-3RHA 
+
+
+'ddCD_RH_P2_LH_P3_S.csv': S-Thd
+Wavelength: Wavelength for CD spectra
+RH_S_P2: the CD spectra of S-Thd in DMSO solution with RH-3RHA
+RH_DMSO_P2: the CD spectra of DMSO solution with RH-3RHA
+LH_S_P3: the CD spectra of S-Thd in DMSO solution with LH-3RHA 
+LH_DMSO_P3: the CD spectra of DMSO solution with LH-3RHA
+RH_P2: the CD spectra of RH-3RHA
+LH_P3: the CD spectra of LH-3RHA 
